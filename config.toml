@@ -1,5 +1,5 @@
-baseurl = "https://amrawad.gitlab.io/blog"
-title = "AmrAwad"
+baseurl = "https://amrawadk.github.io/"
+title = "Amr Awad"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,7 +11,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "amrawad"
+disqusShortname = "amrawadk"
 
 [params]
     author = "Amr Awad"
