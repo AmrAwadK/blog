@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://amrawad.gitlab.io/blog"
 title = "AmrAwad"
 theme = "hugo-coder"
 languagecode = "en"
